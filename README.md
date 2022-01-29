@@ -39,7 +39,8 @@ Simply slide the ashtrai all the way out, disengage light cove (in lower left co
 
 I came out with Blynk app, because it was the easyest and fastest solution. I never shared the app setting before, so let me know if it works.  
 
-1. Download Blynk app[here](http://www.blynk.cc/appdownloads)
+1. Download Blynk app [here](http://www.blynk.cc/appdownloads)
 2. Scan this QR code
 3. Enjoy my app!
 
+![QR code](IMG/qrapka.png)
