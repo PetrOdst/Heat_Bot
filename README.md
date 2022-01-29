@@ -43,4 +43,4 @@ I came out with Blynk app, because it was the easyest and fastest solution. I ne
 2. Scan this QR code
 3. Enjoy my app!
 
-![QR code](IMG/qrapka.png)
+![QR code](IMG/qrapka.png){height="36px" width="36px"}
