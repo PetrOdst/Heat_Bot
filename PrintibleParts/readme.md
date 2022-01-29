@@ -4,8 +4,10 @@
 
 Try to keep parts orientation as shown to avoid supports usage.
 In my case:
+
   - Layer hight 0.2
   - infill 15%
   - no supports
-  - no Brim
+  - no brim
+
 Worked  fine. 
