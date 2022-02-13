@@ -1,5 +1,5 @@
 # HeatBot
-Last winter I decidet to make myself a remote controler for eberspracher car heater. I wanted to do it funny way so I designed ESP32 driven 9g servo robot that slides out of ashtrai, hits the button and hide&slide back in. On TX side I went with phone and [Blynk app](https://blynk.io).
+Last winter I decidet to make myself a remote controler for eberspracher car heater. I wanted to do it funny way so I designed ESP32 driven 9g servo robot that slides out of ashtray, hits the button and hide&slide back in. On TX side I went with phone and [Blynk app](https://blynk.io).
 
     
 
@@ -33,7 +33,7 @@ Worked  fine.
 
 ## Instalation
 
-Simply slide the ashtrai all the way out, disengage light cove (in lower left corner), the hole become usefull later for power wires. Fix the rach printed part to the midle of the ashtrai drore hole. Make shure to place the lower part facing out. 
+Simply slide the ashtrai all the way out, disengage light cove (in lower left corner), the hole become usefull later for power wires. Fix the rach printed part to the midle of the ashtray drore hole. Make shure to place the lower part facing out. 
 
 ## App 
 
