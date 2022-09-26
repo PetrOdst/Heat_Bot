@@ -44,3 +44,4 @@ I came out with Blynk app, because it was the easyest and fastest solution. I ne
 3. Enjoy my app!
 
 ![QR code](IMG/qrapka.png)
+Made by [Hodinový Maker](http://www.hodinovy-maker.cz)
